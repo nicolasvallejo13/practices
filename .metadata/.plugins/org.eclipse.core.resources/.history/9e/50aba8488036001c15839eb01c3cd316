@@ -1,0 +1,49 @@
+import java.util.Scanner;
+
+public class app  {
+	Scanner sc = new Scanner (System.in);
+	
+	int respuesta1;
+	
+	public app () 
+	{
+		
+	}
+	
+	public void startApp ()
+	{
+		while (true)
+		{
+			System.out.print( " Bienvenido a Vocabulary ingrese 1 para agregar palabra, ingrese 2 para practicar ");
+			int respuesta1 = sc.nextInt();
+			System.out.print("usted ha elegido el número " + respuesta1);
+			if(respuesta1 == 1)
+			{
+				System.out.print("por favor escriba la palabra a Agregar" );
+				String respuesta2 = sc.next();
+				System.out.print("por favor escriba el tipo de palabra " );
+				String respuesta3 = sc.next();
+				System.out.print("por favor escriba el ejemplo de la palabra" );
+				String respuesta4 = sc.next();
+				System.out.print("por favor escriba la traducción de la palabra" );
+				String respuesta5 = sc.next();
+				palabra palabraNueva = new palabra( respuesta2, respuesta3, respuesta4, respuesta5, 0);
+				System.out.print("usted ha escrito "+ palabraNueva.getNombre() );
+				palabraNueva.guardarPalabra();
+			}
+		}
+		
+		
+		
+		
+		
+	}
+
+	private void while(boolean b) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+
+}

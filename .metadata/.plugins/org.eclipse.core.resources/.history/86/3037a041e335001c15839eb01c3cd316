@@ -1,0 +1,20 @@
+
+public class persona {
+	int edad;
+	
+	public persona ( int edad)
+	{
+		this.edad = edad; 
+	}
+	public void setEdad (int i)
+	{
+		edad = i;
+	}
+	public int getEdad ()
+	{
+	return edad;
+	}
+	
+	
+
+}

@@ -1,0 +1,89 @@
+
+public class palabra {
+	String nombre;
+	String tipo;
+	String ejemplo; 
+	String traduccion;
+	int vocabScore;
+	
+	
+	
+	public palabra ( String nombre, String tipo, String ejemplo, String traduccion, int vocabScore)
+	{
+		this.nombre = nombre;
+		this.tipo = tipo;
+		this.ejemplo = ejemplo;
+		this.traduccion = traduccion;
+		this.vocabScore = vocabScore;
+		
+	}
+
+
+
+	public int getVocabScore() {
+		return vocabScore;
+	}
+
+
+
+	public void setVocabScore(int vocabScore) {
+		this.vocabScore = vocabScore;
+	}
+
+
+
+	public String getNombre() {
+		return nombre;
+	}
+
+
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+
+
+	public String getTipo() {
+		return tipo;
+	}
+
+
+
+	public void setTipo(String tipo) {
+		this.tipo = tipo;
+	}
+
+
+
+	public String getEjemplo() {
+		return ejemplo;
+	}
+
+
+
+	public void setEjemplo(String ejemplo) {
+		this.ejemplo = ejemplo;
+	}
+
+
+
+	public String getTraducción() {
+		return traduccion;
+	}
+
+
+
+	public void setTraducción(String traducción) {
+		this.traduccion = traducción;
+	}
+
+
+
+	public void guardarPalabra ()
+	{
+		escribir objeto = new escribir(nombre, tipo, ejemplo, traduccion);
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package ParameterByMethodInDataprovider;
+
+import org.testng.annotations.Test;
+
+public class ParameterByMethodInDataprovider {
+  @Test
+  public void f() {
+  }
+}

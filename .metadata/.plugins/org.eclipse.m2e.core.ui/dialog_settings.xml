@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+	</section>
+</section>

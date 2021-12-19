@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class app  {
+	Scanner sc = new Scanner (System.in);
+	int respuesta1;
+	
+	public app () 
+	{
+		
+	}
+	
+	public void startApp ()
+	{
+		
+		System.out.print( " Bienvenido a Vocabulary ingrese 1 para agregar palabra, ingrese 2 para practicar ");
+		int respuesta1 = sc.nextInt();
+		System.out.print("usted ha elegido el número " + respuesta1);
+		if(respuesta1 == 1)
+		{
+			System.out.print("por favor escriba la palabra a Agregar" );
+			palabra palabraNueva = new palabra(sc.toString() , "Hola");
+			System.out.print("usted ha escrito "+ palabraNueva.getNombre() );
+		}
+		
+		
+		
+		
+		
+	}
+	
+	
+
+}

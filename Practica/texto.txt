@@ -1,0 +1,3 @@
+0$$play$$noun$$TheyPlayNow$$jugar
+0$$be$$verb$$iAmHappy$$seroEstar
+0$$dog$$noun$$iHaveADog$$perro

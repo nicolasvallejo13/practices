@@ -1,0 +1,9 @@
+package parametersPractice;
+
+import org.testng.annotations.Test;
+
+public class NoParame {
+  @Test
+  public void f() {
+  }
+}

@@ -1,0 +1,9 @@
+package parameters;
+
+import org.testng.annotations.Test;
+
+public class ParameterWithTestNGXML {
+  @Test
+  public void f() {
+  }
+}

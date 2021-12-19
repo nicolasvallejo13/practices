@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class app  {
+	Scanner sc = new Scanner (System.in);
+	int respuesta1;
+	
+	public app () 
+	{
+		
+	}
+	
+	public void startApp ()
+	{
+		
+		System.out.print( " Bienvenido a Vocabulary ingrese 1 para agregar palabra, ingrese 2 para practicar ");
+		int respuesta1 = sc.nextInt();
+		System.out.print(respuesta1);
+		
+		
+		s
+		
+		
+	}
+	
+	
+
+}

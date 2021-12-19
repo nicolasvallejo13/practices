@@ -1,0 +1,6 @@
+
+
+public class conexion {
+	Class.forName("com.mysql.jdbc.Driver")
+
+}

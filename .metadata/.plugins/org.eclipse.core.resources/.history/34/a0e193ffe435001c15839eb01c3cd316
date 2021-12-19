@@ -1,0 +1,23 @@
+
+public class app  {
+	
+	
+	public app () 
+	{
+		
+	}
+	
+	public void startApp ()
+	{
+		
+		System.out.print( " Bienvenido a Vocabulary ingrese 1 para agregar palabra, ingrese 2 para practicar ");
+		
+		
+		
+		
+		
+	}
+	
+	
+
+}
