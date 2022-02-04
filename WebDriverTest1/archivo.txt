@@ -1,0 +1,6 @@
+Bucaramanga,Monteria,10,2
+Cali,Barranquilla,6,2
+Bogotá,Cali,10,2
+Cúcuta,Bogotá,14,2
+Bogotá,Medellín,15 ,2
+Cali,Barranquilla,9,2

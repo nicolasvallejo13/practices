@@ -1,11 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\nicol\eclipse-workspace\appiumPractica\src\test\java\appiumPractica\CalculatorTest.java"/>
+			<item value="C:\Users\nicol\eclipse-workspace\WebDriverTest1"/>
+			<item value="C:\Users\nicol\eclipse-workspace"/>
+			<item value="C:\Users\nicol\eclipse-workspace\VivaAirVerification"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="winDriverTest"/>
+			<item value="Appiumpractica4"/>
+			<item value="AppiumPractica2"/>
+			<item value="appiumPractica"/>
+			<item value="SeleniumCursoEnero"/>
+			<item value="appiumtests"/>
+			<item value="prueba"/>
+		</list>
+		<list key="name">
+			<item value="ss"/>
+		</list>
+		<list key="artifactId">
+			<item value="winDriverTest"/>
+			<item value="Appiumpractica4"/>
+			<item value="AppiumPractica3"/>
+			<item value="appiumPractica"/>
+			<item value="SeleniumCursoEnero"/>
+			<item value="appiumtests"/>
+			<item value="tecnica"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\nicol\eclipse-workspace\Simple-eclipse-maven"/>
+			<item value="C:\Users\nicol\OneDrive\Desktop\prueba maven\my-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

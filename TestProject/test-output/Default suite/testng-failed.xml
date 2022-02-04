@@ -6,6 +6,7 @@
       <class name="AutamitationPractice.Tests">
         <methods>
           <include name="VerifyThreeArrivalsOnly"/>
+          <include name="VerifyThreeArrivalsNavegate"/>
           <include name="setup"/>
         </methods>
       </class> <!-- AutamitationPractice.Tests -->

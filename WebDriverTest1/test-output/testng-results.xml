@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-20T18:53:38 VET" name="Suite" finished-at="2022-01-20T18:56:17 VET" duration-ms="158597">
+    <groups>
+    </groups>
+    <test started-at="2022-01-20T18:53:38 VET" name="Test" finished-at="2022-01-20T18:56:17 VET" duration-ms="158597">
+      <class name="example.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:example.NewTest@6440112d]" started-at="2022-01-20T18:53:38 VET" name="beforeTest" finished-at="2022-01-20T18:53:43 VET" duration-ms="4911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:example.NewTest@6440112d]" started-at="2022-01-20T18:53:43 VET" name="Test" data-provider="Provider1" finished-at="2022-01-20T18:54:16 VET" duration-ms="32650" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bucaramanga]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Monteria]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method signature="Test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:example.NewTest@6440112d]" started-at="2022-01-20T18:54:16 VET" name="Test" data-provider="Provider1" finished-at="2022-01-20T18:54:52 VET" duration-ms="35703" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Barranquilla]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method signature="Test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:example.NewTest@6440112d]" started-at="2022-01-20T18:54:52 VET" name="Test" data-provider="Provider1" finished-at="2022-01-20T18:55:17 VET" duration-ms="25442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bogotá]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method signature="Test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:example.NewTest@6440112d]" started-at="2022-01-20T18:55:17 VET" name="Test" data-provider="Provider1" finished-at="2022-01-20T18:55:36 VET" duration-ms="18608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cúcuta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bogotá]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method signature="Test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:example.NewTest@6440112d]" started-at="2022-01-20T18:55:36 VET" name="Test" data-provider="Provider1" finished-at="2022-01-20T18:55:54 VET" duration-ms="17796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bogotá]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Medellín]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method signature="Test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:example.NewTest@6440112d]" started-at="2022-01-20T18:55:54 VET" name="Test" data-provider="Provider1" finished-at="2022-01-20T18:56:13 VET" duration-ms="19298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Barranquilla]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Cerrar()[pri:0, instance:example.NewTest@6440112d]" started-at="2022-01-20T18:56:13 VET" name="Cerrar" finished-at="2022-01-20T18:56:17 VET" duration-ms="4094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cerrar -->
+      </class> <!-- example.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
